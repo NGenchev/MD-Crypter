@@ -1,6 +1,18 @@
 # MD5 Crypter
 MD5 - Encrypt &amp; Decrypt with HashTable
 
+# Live Demo
+> http://md5.double-n.org
+
+# API (Encrypt/Decrypt)
+-- link: http://md5.double-n.org/free-api.php?type={encrypt/decrypt}&text={no_lenght_limited_text}
+
+# Params (API)
+[list]
+ - `type`: {text} - could be `encrypt` or `decrypt`
+ - `text`: {text} - could be anything..
+[/list]
+
 # Description
 MD5 is one of the most used and popular encrypting method which is hash value, typically expressed in text format as a 32-digit hexadecimal number. MD5 is a one-way function so if you choose strong and unique password and your md5 hash value will be not decryptable. But if you use md5 sites like this, when you encrypt some text in md5 your md5 value and text just have saved in database and you can decrypt it easy, so that DON`T USE IT FOR PASSWORD ENCRYPTION !
 
