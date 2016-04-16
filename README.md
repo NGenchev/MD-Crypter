@@ -9,9 +9,8 @@ MD5 is one of the most used and popular encrypting method which is hash value, t
 -- You can take information from site with our API (it`s return json) ;
 
 # Used technologies
--- HTML5 & CSS3(Bootstrap & FontAwesome, JavaScript(jQuery) for design & template and api view ;
--- PHP(5), MySQL(improved) & JavaScript(JSON) for encrypt/decrypt, work with DB(phpMyAdmin) and API(encrypt/decrypt) ;
+-- HTML5 &amp; CSS3(Bootstrap &amp; FontAwesome, JavaScript(jQuery) for design &amp; template and api view ;
+-- PHP(5), MySQL(improved) &amp; JavaScript(JSON) for encrypt/decrypt, work with DB(phpMyAdmin) and API(encrypt/decrypt) ;
 
-# Authors
+# Author
 -- NGenchev ( n.genchev@outlook.com )
--- NGeorgiev ( astroniki@gmail.com )
