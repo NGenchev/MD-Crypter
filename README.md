@@ -6,11 +6,14 @@ MD5 is one of the most used and popular encrypting method which is hash value, t
 
 # Why it is usefull ?
 -- You can encrypt text/information with no lenght limit and md5 encryptor just compress it to 32-digit text, easy for decryption later ;
+
 -- You can take information from site with our API (it`s return json) ;
 
 # Used technologies
 -- HTML5 &amp; CSS3(Bootstrap &amp; FontAwesome, JavaScript(jQuery) for design &amp; template and api view ;
+
 -- PHP(5), MySQL(improved) &amp; JavaScript(JSON) for encrypt/decrypt, work with DB(phpMyAdmin) and API(encrypt/decrypt) ;
 
 # Author
 -- NGenchev ( n.genchev@outlook.com )
+
